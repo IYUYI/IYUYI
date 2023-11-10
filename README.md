@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake.svg)
-
 <a href="https://github.com/IYUYI#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake.svg?palette=github-dark"/>
 </a>
