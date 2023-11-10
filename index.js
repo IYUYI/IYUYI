@@ -15,7 +15,8 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
-![](https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake-dark.svg)
+
+![](https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
 - 🐕 姓名: 保密
@@ -30,7 +31,10 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)\
-`
-https://img.shields.io/badge/写作工具-VS20%Code-blue
+![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)
+
+![](https://img.shields.io/badge/写作工具-VS20%Code-blue)
+
+\`
+![](https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake-dark.svg)
 console.log(readme)
