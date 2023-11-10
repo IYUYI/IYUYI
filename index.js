@@ -17,10 +17,10 @@ const readme = `\
 ### Hi there 👋
 
 <a href="https://github.com/IYUYI#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+  <img src="https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake-dark.svg" alt="IYUYI's GitHub Snake" />
 </a>
 <a href="https://github.com/IYUYI#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/IYUYI/IYUYI/output/github-contribution-grid-snake.svg" alt="IYUYI's GitHub Snake" />
 </a>
 
 ### 个人简介
