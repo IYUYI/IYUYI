@@ -38,6 +38,6 @@ const readme = `\
 
 ![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)
 
-![](https://img.shields.io/badge/写作工具-VS20%Code-blue)\
+![DO VSCode](https://img.shields.io/badge/DO-VS20%Code-blue)\
 `
 console.log(readme)
