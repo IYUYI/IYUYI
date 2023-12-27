@@ -21,4 +21,4 @@
 ⏰ Updated on Wed, 27 Dec 2023 06:22:28 GMT
 
 ![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)
-![Static Badge](https://img.shields.io/badge/DO-VS Code-blue)
+![Static Badge](https://img.shields.io/badge/DO-VS%20Code-blue)
