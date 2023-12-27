@@ -37,7 +37,7 @@ const readme = `\
 ⏰ Updated on ${new Date().toUTCString()}
 
 ![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)
-
+![Static Badge](https://img.shields.io/badge/DO-VS20%25Code-blue)
 ![DO VSCode](https://img.shields.io/badge/DO-VS20%Code-blue)\
 `
 console.log(readme)
