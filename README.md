@@ -14,11 +14,11 @@
 - 🌏 现居: 湖北武汉
 - 📞 手机: 18285848445
 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.25 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.34 %
 
 ---
 
-⏰ Updated on Wed, 10 Sep 2025 18:32:59 GMT
+⏰ Updated on Thu, 11 Sep 2025 01:50:39 GMT
 
 ![Progress Bar CI](https://github.com/IYUYI/IYUYI/workflows/Progress%20Bar%20CI/badge.svg)
 ![Static Badge](https://img.shields.io/badge/DO-VS%20Code-blue)
